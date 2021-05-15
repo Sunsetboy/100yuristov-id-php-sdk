@@ -1,5 +1,6 @@
 {
-    "name": "sto_yuristov/id_sdk",
+    "name": "100yuristov/id-sdk",
+    "version": "0.1.1",
     "description": "ID service SDK",
     "type": "library",
     "license": "MIT",
