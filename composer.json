@@ -1,0 +1,21 @@
+{
+    "name": "sto_yuristov/id_sdk",
+    "description": "ID service SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sunsetboy",
+            "email": "misha.sunsetboy@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.2",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "IdService\\": "src/"
+        }
+    }
+}
