@@ -3,6 +3,14 @@
     "description": "ID service SDK",
     "minimum-stability": "stable",
     "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Michael Krutikov",
+            "email": "misha.sunsetboy@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "php": "^7.2",
         "guzzlehttp/guzzle": "^7.0"
