@@ -1,6 +1,7 @@
 {
     "name": "100yuristov/id-sdk",
     "description": "ID service SDK",
+    "minimum-stability": "stable",
     "license": "MIT",
     "require": {
         "php": "^7.2",
