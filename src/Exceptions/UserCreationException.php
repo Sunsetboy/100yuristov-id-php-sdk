@@ -4,7 +4,7 @@ declare(strict_types=1);
 namespace IdService\Exceptions;
 
 
-class UserCreationException
+class UserCreationException extends \Exception
 {
 
 }
